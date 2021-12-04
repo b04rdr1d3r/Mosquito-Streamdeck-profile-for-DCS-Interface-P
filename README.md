@@ -12,7 +12,7 @@ what you need:
     theMosquito module
     a streamdeck
     DCS Interface ==> https://github.com/charlestytler/streamdeck-dcs-interface
-    DCS Interface requires DCS Exports Scripts (https://github.com/s-d-a/DCS-ExportScripts)
-    DCS Export Scripts Mosquito module 
+    DCS Interface requires DCS Exports Scripts (https://github.com/b04rdr1d3r/DCS-ExportScripts) (forked from s-d-a)
+    DCS Export Scripts Mosquito module (included in my fork)
     
 Once you have all DCS Export Scripts and DCS Interface running, just upload the profile and off you go...
